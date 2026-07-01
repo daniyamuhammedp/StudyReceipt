@@ -46,9 +46,6 @@ print(df)
 print()
 
 # VERDICT
-# oru hourl ethre mark(score cheythathinte) padichu.
-# if i scored 90 mark by studying 5 hour, i learned for 18 mark in an hour.
-
 avg = df["Efficiency"].mean()
 
 print("── Verdict ──")
